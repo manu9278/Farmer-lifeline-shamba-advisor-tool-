@@ -1,0 +1,34 @@
+{
+  "farm_description": "MAIZE , WEBUYE , BROWN LEAVES",
+  "diagnosis": {
+    "is_farming_related": true,
+    "decline_message": "",
+    "summary": "Your maize crop in Webuye is experiencing browning of the leaves, which reduces plant health and yield.",
+    "likely_causes": [
+      "The soil may lack key nutrients like nitrogen, which is a very common issue in Western Kenya.",
+      "The maize plants might be suffering from water stress due to recent dry spells.",
+      "A fungal infection like leaf blight could be attacking the crop and drying out the leaves."
+    ],
+    "urgency": "medium",
+    "recommended_approach": "Apply well-rotted manure or compost to feed the soil, and use mulch to conserve moisture around the plants. Remove and burn any heavily diseased leaves to stop infections from spreading to healthy maize."
+  },
+  "action_plan": {
+    "this_week_actions": [
+      "Walk through your field and pluck off all leaves that are heavily spotted or completely dried up.",
+      "Burn or bury the plucked leaves far from your field to stop any fungal spores from spreading.",
+      "Collect dry grass or crop residues and pile them around the base of each maize plant as mulch.",
+      "Apply a handful of well-rotted manure around the root zone of each plant to boost soil nutrients."
+    ],
+    "materials_needed": [
+      "Well-rotted livestock manure or organic compost.",
+      "Dry grass, leaves, or old crop stalks for mulching.",
+      "A spade or matches box to bury or burn the infected leaves."
+    ],
+    "warning_signs": [
+      "Grayish-green, cigar-shaped stripes spread rapidly across all leaves on the plant.",
+      "The plants continue to wilt and dry up even after receiving water and manure."
+    ],
+    "expected_outcome": "Within two weeks, the soil will stay damp longer and your maize will show new, healthy green leaf growth."
+  },
+  "generated_at": "20260818_144516"
+}

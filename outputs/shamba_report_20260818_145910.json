@@ -1,0 +1,34 @@
+{
+  "farm_description": "arrow roots, syokimau , root rot",
+  "diagnosis": {
+    "is_farming_related": true,
+    "decline_message": "",
+    "summary": "Your arrowroot crops in the Syokimau area are suffering from rotting roots which destroys the harvest.",
+    "likely_causes": [
+      "Heavy clay soil in your area holds too much water and suffocates the plant roots.",
+      "Fungal pests in the wet soil are attacking and decaying the roots.",
+      "You may have used infected planting material from a previous harvest."
+    ],
+    "urgency": "high",
+    "recommended_approach": "Improve soil drainage by planting on raised beds and immediately dig up and destroy any infected plants. Always use clean, healthy suckers for your next planting to prevent the rot from returning."
+  },
+  "action_plan": {
+    "this_week_actions": [
+      "Identify and completely dig up all arrowroot plants showing signs of wilting or rotting leaves.",
+      "Burn or deeply bury the infected plants far away from your farming plot to stop the disease from spreading.",
+      "Dig trenches around your planting area and build raised beds at least 30 centimeters high to improve water drainage.",
+      "Dust the planting holes of your new raised beds with wood ash to help disinfect the soil before planting."
+    ],
+    "materials_needed": [
+      "A sharp jembe and spade for digging drainage trenches and building raised beds.",
+      "Clean, dry wood ash collected from your kitchen hearth to sanitize the soil.",
+      "Certified disease-free arrowroot suckers sourced from a trusted nursery."
+    ],
+    "warning_signs": [
+      "New leaves continue to turn yellow and rot even after you have moved the plants to raised beds.",
+      "Nearby crops start showing similar root rotting or wilting symptoms within two weeks."
+    ],
+    "expected_outcome": "Within four weeks, your new arrowroot plants on raised beds should show strong, green leaf growth with no further signs of rotting."
+  },
+  "generated_at": "20260818_145910"
+}
