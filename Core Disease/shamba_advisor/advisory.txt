@@ -1,0 +1,81 @@
+==================================================
+          SHAMBA ADVISOR
+==================================================
+
+  CROP                     : TOMATO
+
+--------------------------------------------------
+  POSSIBLE PROBLEM
+--------------------------------------------------
+  Bacterial Leaf Spot
+
+  Other possibilities:
+    - Early Blight
+    - Late Blight
+
+--------------------------------------------------
+  RISK ASSESSMENT
+--------------------------------------------------
+  RISK LEVEL               : [HIGH]
+  DETECTION STAGE          : [EARLY STAGE]
+  CONFIDENCE               : 93%
+
+--------------------------------------------------
+  OBSERVED SYMPTOMS & EVIDENCE
+--------------------------------------------------
+  - Observed 'yellow' matches typical symptom: Small water-soaked spots, yellow halos, scabby lesions on fruit...
+  - 'yellow' is an early sign of this disease
+  - 'yellow' indicates advanced progression
+  - Observed 'halo' matches typical symptom: Small water-soaked spots, yellow halos, scabby lesions on fruit...
+  - Observed 'spots' matches typical symptom: Small water-soaked spots, yellow halos, scabby lesions on fruit...
+  - 'spots' is an early sign of this disease
+  - 'spots' indicates advanced progression
+  - Observed 'halos' matches typical symptom: Small water-soaked spots, yellow halos, scabby lesions on fruit...
+
+--------------------------------------------------
+  IMMEDIATE ACTIONS
+--------------------------------------------------
+  1. Copper sprays
+  2. Remove infected debris
+  3. Avoid overhead watering
+  4. Preventive: Disease-free seed
+  5. Preventive: Crop rotation
+
+--------------------------------------------------
+  PREVENTION MEASURES
+--------------------------------------------------
+  - Disease-free seed
+  - Crop rotation
+  - Avoid working in wet fields
+
+--------------------------------------------------
+  MONITORING RECOMMENDATIONS
+--------------------------------------------------
+  - Check plants daily for symptom progression
+  - Monitor neighboring plants for spread
+  - Track weather conditions favorable to disease
+  - Scout field every 1-2 days
+  - Prepare for rapid intervention if spreading
+
+--------------------------------------------------
+  IMPORTANT WARNING
+--------------------------------------------------
+  This is an AI-based early warning advisory
+  based on symptom pattern matching.
+  It is NOT a laboratory diagnosis.
+
+  For definitive diagnosis and treatment,
+  please consult your local agricultural
+  extension officer or plant clinic.
+
+--------------------------------------------------
+  [ESCALATION RECOMMENDED]
+--------------------------------------------------
+  This case shows HIGH RISK indicators.
+  Professional diagnosis is strongly
+  recommended as soon as possible.
+
+==================================================
+  Generated: 2026-08-19 21:37:46
+  Shamba Advisor v1.0
+==================================================
