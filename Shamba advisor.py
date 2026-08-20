@@ -53,7 +53,7 @@ client = genai.Client(api_key=API_KEY)
 # ---------------------------------------------------------------------------
 # SECTION 3: HELPER FUNCTION - SAFE API CALL
 # ---------------------------------------------------------------------------
-def call_gemini(prompt: str) -> str:
+def call_gemini(prompt: str) -> str | None:
     """
     Sends a single prompt to the Gemini API and returns the raw text
     response. Wrapped in try/except so a network error or API failure does
@@ -76,10 +76,10 @@ def call_gemini(prompt: str) -> str:
     except Exception as api_error:
         # Covers connection errors, rate limits, invalid key, timeouts, etc.
         print(f"\n[API CALL FAILED] Something went wrong talking to Gemini: {api_error}")
-        return ""
+        return None
 
 
-def parse_json_response(raw_text: str) -> dict | None:
+def parse_json_response(raw_text: str | None) -> dict | None:
     """
     Tries to parse a JSON object out of the model's raw text reply.
     Even though we ask Gemini for pure JSON, models occasionally still wrap
