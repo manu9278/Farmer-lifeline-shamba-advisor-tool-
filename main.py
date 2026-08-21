@@ -11,12 +11,8 @@ load_dotenv()
 
 api_key = os.getenv("GEMINI_API_KEY_MINE")
 
-
-
 client = genai.Client(api_key=api_key)
 EXIT_WORDS = {"exit", "quit", "q"}
-
-
 # ---- 1. Define the output schema with Pydantic ----
 class Stage1Output(BaseModel):
     validity: bool = Field(description="True if the message is a crop/plant health issue")
@@ -29,7 +25,6 @@ class Stage1Output(BaseModel):
     rejection_reason: Optional[str] = Field(
         default=None, description="Only set if validity is false"
     )
-
 
 SYSTEM_PROMPT = """
 You are an input-validation and intent-extraction specialist for the Shamba Advisor agricultural advisory system.
@@ -57,8 +52,6 @@ EXTRACTION CONSTRAINTS:
 
 OUTPUT: Return strictly structured data matching the schema.
 """
-
-
 def stage_1(user_message: str) -> dict:
     response = client.models.generate_content(
         model="gemini-3.6-flash",
