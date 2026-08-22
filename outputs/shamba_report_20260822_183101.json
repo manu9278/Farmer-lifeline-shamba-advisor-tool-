@@ -1,0 +1,34 @@
+{
+  "farm_description": "corn, webuye , low yeild",
+  "diagnosis": {
+    "is_farming_related": true,
+    "decline_message": "",
+    "summary": "You are experiencing poor maize harvests from your shamba in the Webuye area.",
+    "likely_causes": [
+      "Your soil may be too acidic and depleted of nutrients from planting maize in the same spot every year.",
+      "The destructive Striga weed, locally known as Kayongo, might be sucking nutrients from your maize roots.",
+      "Pests like the Fall Armyworm or stemborers may have damaged your crop during the growing season."
+    ],
+    "urgency": "medium",
+    "recommended_approach": "To fix this, mix plenty of organic manure into your soil and rotate your maize with beans or groundnuts next season."
+  },
+  "action_plan": {
+    "this_week_actions": [
+      "Pull up and burn any visible purple-flowered Striga weeds before they shed seeds.",
+      "Collect well-decomposed animal manure from your cowshed or purchase it locally.",
+      "Dig and mix two handfuls of the manure into each planting hole to enrich your soil.",
+      "Visit the local agro-dealer to buy certified bean seeds for your upcoming crop rotation."
+    ],
+    "materials_needed": [
+      "Dry, well-decomposed cattle or poultry manure.",
+      "Certified bean seeds for the next planting season.",
+      "A standard hand hoe for mixing manure into the soil."
+    ],
+    "warning_signs": [
+      "Maize leaves show ragged holes with wet, sawdust-like waste inside the center whorl.",
+      "Maize plants remain severely stunted and pale yellow even after adding manure."
+    ],
+    "expected_outcome": "By the next harvest season, you can expect healthier green maize stalks and an increased crop yield."
+  },
+  "generated_at": "20260822_183101"
+}

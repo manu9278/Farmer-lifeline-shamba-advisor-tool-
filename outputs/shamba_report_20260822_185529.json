@@ -1,0 +1,22 @@
+{
+  "farm_description": "maize , yellow leaves , webuye",
+  "is_farming_related": true,
+  "decline_message": "",
+  "issue_name": "Maize Leaf Yellowing (Nutrient Deficiency or Water Stress)",
+  "causes": [
+    "Low nitrogen in the soil makes older leaves turn yellow starting from the tips.",
+    "Heavy rainfall and waterlogged soil prevent plant roots from absorbing nutrients properly.",
+    "Pests like stalk borers can damage the stem and stop food from reaching the leaves."
+  ],
+  "urgency": "medium",
+  "action_plan": [
+    "Add well-rotted animal manure or compost around the base of each maize plant.",
+    "Dig shallow trenches between crop rows to drain away standing water.",
+    "Drop a small pinch of clean wood ash into the leaf funnels to suppress hidden pests."
+  ],
+  "prevention_tips": [
+    "Rotate your maize field with beans or groundnuts next season to naturally add nitrogen to the soil.",
+    "Mix plenty of decomposed compost into your soil before planting your next crop."
+  ],
+  "generated_at": "20260822_185529"
+}
