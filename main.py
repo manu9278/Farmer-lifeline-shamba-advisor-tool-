@@ -1,4 +1,12 @@
-#Guardrail-only interactive command line interfacefor the Shamba Advisor Tool.
+#Guardrail-only interactive command line interface for the Shamba Advisor Tool.
+"""
+Sits between the user-facing chat/input layer and database_manager.py's
+#Provides:
+  1. Input validation & sanitization  -> InputValidator
+  2. Topic scope restriction          -> TopicGuardrail (only farming/crop topics)
+  3. A single pipeline that combines both -> GuardrailPipeline
+  """
+
 import os
 import json
 from typing import Optional, List
@@ -11,7 +19,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 api_key = os.getenv("GEMINI_API_KEY_MINE")
-
 client = genai.Client(api_key=api_key)
 EXIT_WORDS = {"exit", "quit", "q"}
 # ---- 1. Define the output schema with Pydantic ----
