@@ -1,0 +1,33 @@
+{
+  "farm_description": "my bsf lavae are not reproducing",
+  "diagnosis": {
+    "is_farming_related": true,
+    "decline_message": "",
+    "summary": "Black Soldier Fly larvae do not reproduce directly. They must first grow, turn into dark pupae, and hatch into adult flies which then mate and lay eggs. If your colony is not producing new larvae, the cycle is being broken at the pupae or adult fly stage.",
+    "likely_causes": [
+      "Larvae are being harvested too early or kept in wet conditions that prevent them from turning into dark pupae.",
+      "Adult flies in the cage lack the bright, natural morning sunlight they need to stimulate mating.",
+      "There is no attractive, smelly food waste or proper dry cardboard slots for the female flies to lay their eggs in."
+    ],
+    "urgency": "medium",
+    "recommended_approach": "Allow some of your largest larvae to turn dark and crawl out to a dry place to pupate. Put these pupae in a netting cage placed under direct morning sunlight. Inside the cage, place a bowl of moist, fermenting kitchen waste covered with small pieces of corrugated cardboard so the hatched flies can easily lay their eggs in the cardboard holes."
+  },
+  "action_plan": {
+    "this_week_actions": [
+      "Separate the largest, darkest larvae into a dry container so they can pupate.",
+      "Set up a secure netting cage in a spot that gets direct morning sunlight.",
+      "Place a small container of moist, smelly food waste inside the netting cage.",
+      "Stack pieces of corrugated cardboard next to the food to collect eggs."
+    ],
+    "materials_needed": [
+      "Fine mesh netting or a mosquito net cage.",
+      "Scraps of corrugated cardboard cut into small strips.",
+      "Fermenting kitchen waste or fruit scraps."
+    ],
+    "warning_signs": [
+      "The pupae develop mold or turn completely mushy and rot.",
+      "Adult flies emerge but die within two days without mating."
+    ],
+    "expected_outcome": "Adult flies will hatch, mate under the sunlight, and lay new eggs in the cardboard slots within two weeks."
+  }
+}

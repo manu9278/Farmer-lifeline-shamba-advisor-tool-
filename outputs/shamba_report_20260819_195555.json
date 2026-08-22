@@ -1,0 +1,33 @@
+{
+  "farm_description": "low productivity in my bee farm",
+  "diagnosis": {
+    "is_farming_related": true,
+    "decline_message": "",
+    "summary": "Your beehives are producing very little honey, which is often caused by hungry bees, pests disturbing the colony, or poor hive placement.",
+    "likely_causes": [
+      "Lack of enough flowering plants (forage) and clean water close to the hives.",
+      "Attacks by pests like safari ants, hive beetles, or wax moths that stress the bees.",
+      "Bad hive positioning, such as placing hives in direct hot sun, strong winds, or noisy areas."
+    ],
+    "urgency": "medium",
+    "recommended_approach": "Smear old engine oil or grease on the wires hanging your hives to block crawling ants. Place shallow containers of clean water with floating sticks (for bees to land on) near the apiary. Ensure hives are under tree shade, and plant local flowers or sunflowers nearby to provide easy food."
+  },
+  "action_plan": {
+    "this_week_actions": [
+      "Put out shallow water basins with floating sticks near your hives.",
+      "Smear used engine oil or grease on the hive hanging wires to block ants.",
+      "Move hives into tree shade to protect them from the hot sun.",
+      "Plant sunflower seeds or local flowers close to the apiary."
+    ],
+    "materials_needed": [
+      "Used engine oil or grease",
+      "Shallow basins and dry sticks",
+      "Sunflower seeds or local flower cuttings"
+    ],
+    "warning_signs": [
+      "Whole colonies of bees are completely abandoning the hives.",
+      "Large numbers of dead bees are piling up near the hive entrance."
+    ],
+    "expected_outcome": "Your bees will stay hydrated, remain safe from ants, and have easier access to food to boost honey production."
+  }
+}

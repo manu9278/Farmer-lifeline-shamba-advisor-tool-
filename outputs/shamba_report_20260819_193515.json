@@ -1,0 +1,33 @@
+{
+  "farm_description": "my tomatoes have black spots",
+  "diagnosis": {
+    "is_farming_related": true,
+    "decline_message": "",
+    "summary": "Your tomatoes have black spots, which is a common problem usually caused by fungal diseases or watering issues that can quickly damage your harvest.",
+    "likely_causes": [
+      "Early blight, a fungus that attacks leaves and fruit during warm, wet weather.",
+      "Late blight, a destructive mold that spreads fast when it is cool and rainy.",
+      "Blossom end rot, which happens when the plant doesn't get enough water or calcium, causing the bottom of the tomato to turn black."
+    ],
+    "urgency": "high",
+    "recommended_approach": "Immediately pluck off and burn all infected leaves and fruits to stop the spread; do not compost them. Always water your plants at the base of the stem rather than splashing water on the leaves. Space your tomato plants well so air can dry them quickly, and apply mulch around the roots to keep soil moisture steady."
+  },
+  "action_plan": {
+    "this_week_actions": [
+      "Pluck off all leaves and fruits that show black spots immediately.",
+      "Burn or discard the infected plant parts in the trash instead of composting them.",
+      "Water the soil directly at the base of the plant to keep the leaves completely dry.",
+      "Spread a thick layer of mulch around the tomato roots to keep soil moisture even."
+    ],
+    "materials_needed": [
+      "Pruning shears or a sharp knife.",
+      "Straw, dry leaves, or grass clippings for mulch.",
+      "A trash bag or bucket to collect diseased plant parts."
+    ],
+    "warning_signs": [
+      "The black spots spread rapidly to cover the main stems of the plants.",
+      "Entire tomato plants wilt and collapse despite having wet soil."
+    ],
+    "expected_outcome": "The spread of the disease will stop, allowing new leaves and upcoming tomatoes to grow healthy and spot-free."
+  }
+}

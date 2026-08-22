@@ -1,0 +1,34 @@
+{
+  "farm_description": "potato, kakamega , small potatos",
+  "diagnosis": {
+    "is_farming_related": true,
+    "decline_message": "",
+    "summary": "The farmer in Kakamega is harvesting small-sized Irish potatoes instead of normal, marketable tubers.",
+    "likely_causes": [
+      "Using recycled seeds from previous harvests which carry viruses that stunt tuber growth.",
+      "Low soil nutrients and high soil acidity which are common in the Kakamega region.",
+      "Poor earthing up and tight spacing which limit the physical space for tubers to expand."
+    ],
+    "urgency": "medium",
+    "recommended_approach": "Apply plenty of well-rotted animal manure to improve soil fertility, space plants properly, and try to obtain clean certified seeds for the next season."
+  },
+  "action_plan": {
+    "this_week_actions": [
+      "Measure and mark your planting rows to ensure a spacing of 30 centimeters between plants and 75 centimeters between rows.",
+      "Dig planting furrows and mix in two handfuls of well-rotted animal manure per planting hole.",
+      "Earth up the soil around the base of existing potato plants to a height of 25 centimeters to give tubers space to grow.",
+      "Visit your nearest certified agrodealer to book disease-free certified potato seeds for your next planting."
+    ],
+    "materials_needed": [
+      "Well-rotted dry cow or chicken manure from local livestock farmers.",
+      "A standard measuring tape or a pre-marked wooden stick to guide spacing.",
+      "A sturdy hand hoe for digging furrows and earthing up soil."
+    ],
+    "warning_signs": [
+      "Leaves turning yellow, curling upward, or showing dark spots despite proper watering.",
+      "Stems wilting suddenly during the day and rotting at the base with a foul smell."
+    ],
+    "expected_outcome": "You will harvest larger, more marketable potato tubers by the end of the next harvesting season in about four months."
+  },
+  "generated_at": "20260819_193247"
+}

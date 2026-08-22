@@ -1,0 +1,34 @@
+{
+  "farm_description": "psaaion , Lugari, rotten stems",
+  "diagnosis": {
+    "is_farming_related": true,
+    "decline_message": "",
+    "summary": "Your passion fruit plants in Lugari are suffering from rotting stems, which threatens to kill the vines.",
+    "likely_causes": [
+      "A soil-borne fungus called Fusarium wilt which attacks the base of passion fruit vines.",
+      "Collar rot disease which thrives in wet, poorly drained soils.",
+      "Injuries from weeding tools that allow rot-causing germs to enter the stem."
+    ],
+    "urgency": "high",
+    "recommended_approach": "Improve soil drainage to prevent soggy conditions, and apply wood ash to the affected stem bases to dry out the rot."
+  },
+  "action_plan": {
+    "this_week_actions": [
+      "Carefully scrape away weeds and soil touching the base of the infected passion fruit stems to let them breathe.",
+      "Dig shallow drainage trenches around the garden block to direct standing rainwater away from the root zones.",
+      "Apply a handful of dry wood ash directly onto the rotting parts of the stems to dry out the infections.",
+      "Disinfect all weeding and pruning tools with a bleach solution after working on each plant to stop disease spread."
+    ],
+    "materials_needed": [
+      "Dry wood ash collected from your kitchen fireplace.",
+      "A hand hoe or shovel to dig the drainage trenches.",
+      "Household bleach mixed with water in a container to clean your tools."
+    ],
+    "warning_signs": [
+      "The leaves on the passion fruit vines suddenly wilt and turn yellow despite the soil being wet.",
+      "The black or brown rot completely wraps around the stem, causing the bark to peel away entirely."
+    ],
+    "expected_outcome": "You should see the wet, mushy rot on the stems dry up and vine wilting stop within two weeks."
+  },
+  "generated_at": "20260819_192452"
+}
