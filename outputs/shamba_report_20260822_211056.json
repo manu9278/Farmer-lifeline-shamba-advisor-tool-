@@ -1,0 +1,22 @@
+{
+  "farm_description": "maize ,yala , brown leaves",
+  "is_farming_related": true,
+  "decline_message": "",
+  "issue_name": "Maize Leaf Blight",
+  "causes": [
+    "Fungal infection caused by warm and humid weather in the Yala region.",
+    "Lack of essential soil nutrients such as nitrogen.",
+    "Planting infected seeds saved from previous harvests."
+  ],
+  "urgency": "medium",
+  "action_plan": [
+    "Pluck off and burn the heavily browned leaves to stop spread.",
+    "Add well-rotted manure or wood ash around the plant bases to strengthen them.",
+    "Weed the farm thoroughly so sunshine and air reach the lower maize stalks."
+  ],
+  "prevention_tips": [
+    "Rotate your maize with legumes like beans or cowpeas next season.",
+    "Always buy certified disease-resistant seeds for planting."
+  ],
+  "generated_at": "20260822_211056"
+}
