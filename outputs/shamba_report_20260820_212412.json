@@ -1,0 +1,34 @@
+{
+  "farm_description": "onions smell",
+  "diagnosis": {
+    "is_farming_related": true,
+    "decline_message": "",
+    "summary": "Your onions are likely rotting either in the shamba or during storage, which produces a foul odor.",
+    "likely_causes": [
+      "Bacterial soft rot caused by too much water in the soil or poor drainage.",
+      "Neck rot disease which occurs when onions are harvested in wet weather and not dried properly.",
+      "Pest damage from soil insects that cuts the bulbs and allows rot to enter."
+    ],
+    "urgency": "high",
+    "recommended_approach": "Immediately sort through your onions to remove and bury all rotting ones, then dry the healthy ones in a well-ventilated, shaded place."
+  },
+  "action_plan": {
+    "this_week_actions": [
+      "Dig up all smelling onions and separate them from the healthy ones immediately.",
+      "Bury the rotten onions in a deep pit far away from your farming field.",
+      "Spread the healthy onions on a dry, shaded, and well-ventilated surface to cure.",
+      "Stop watering the remaining onion beds immediately to let the soil dry out."
+    ],
+    "materials_needed": [
+      "A spade or jembe to dig a disposal pit.",
+      "Dry cardboard sheets or clean sacks to spread out the drying onions.",
+      "A hand hoe to dig drainage channels in wet onion beds."
+    ],
+    "warning_signs": [
+      "More than half of the remaining onions turn soft and mushy within three days.",
+      "You find white maggots actively feeding inside the necks of healthy-looking onions."
+    ],
+    "expected_outcome": "The rot will stop spreading, and the remaining healthy onions will dry out completely within two weeks."
+  },
+  "generated_at": "20260820_212412"
+}

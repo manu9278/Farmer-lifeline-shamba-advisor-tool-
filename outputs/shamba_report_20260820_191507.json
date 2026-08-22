@@ -1,0 +1,34 @@
+{
+  "farm_description": "potatoes in thika leaves are turning brown",
+  "diagnosis": {
+    "is_farming_related": true,
+    "decline_message": "",
+    "summary": "Your potato plants in Thika are suffering from browning leaves, which threatens the harvest.",
+    "likely_causes": [
+      "Late blight, a serious disease that spreads rapidly during wet weather.",
+      "Early blight, which causes dark brown spots on older leaves first.",
+      "Lack of enough water or soil nutrients to support healthy leaf growth."
+    ],
+    "urgency": "high",
+    "recommended_approach": "Immediately remove and destroy affected leaves to stop the spread. Space your plants well and apply low-cost copper-based fungicides or wood ash to protect the remaining crop."
+  },
+  "action_plan": {
+    "this_week_actions": [
+      "Cut off all brown or spotted potato leaves and bury them deep in the ground far from your field.",
+      "Dust the remaining healthy potato leaves with dry wood ash early in the morning while there is still dew.",
+      "Clear all weeds around the potato plants to improve airflow and keep the leaves dry.",
+      "Spray the remaining crop with a copper-based fungicide if the weather remains wet and rainy."
+    ],
+    "materials_needed": [
+      "Dry wood ash collected from your kitchen fireplace.",
+      "Clean pruning shears or a sharp knife disinfected with rubbing alcohol.",
+      "Copper-based fungicide purchased from your local agrovet shop."
+    ],
+    "warning_signs": [
+      "The plant stems turn black and mushy within a few days.",
+      "Entire potato plants wilt and collapse despite soil being moist."
+    ],
+    "expected_outcome": "The spread of brown spots will stop, and your plants will show healthy green leaf growth within two weeks."
+  },
+  "generated_at": "20260820_191507"
+}
