@@ -1,3 +1,4 @@
+#Guardrail-only interactive command line interfacefor the Shamba Advisor Tool.
 import os
 import json
 from typing import Optional, List
