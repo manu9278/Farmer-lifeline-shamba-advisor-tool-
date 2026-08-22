@@ -5,10 +5,15 @@ Guardrails layer for the Farmer Lifeline (Shamba Advisor Tool).
 
 Sits between the user-facing chat/input layer and database_manager.py's
 read_rag() / Gemini call. Provides:
+# Guardrail & Input Sanitization Pipeline
 
-  1. Input validation & sanitization  -> InputValidator
-  2. Topic scope restriction          -> TopicGuardrail (only farming/crop topics)
-  3. A single pipeline that combines both -> GuardrailPipeline
+## Overview
+The `InputValidator` class cleans user input before it reaches the core LLM/RAG pipeline.
+
+## Features
+* **Sanitization:** Normalizes Unicode characters and strips raw inputs.
+* **Prompt Injection Protection:** Rejects unauthorized override patterns (`INJECTION_PATTERNS`).
+* **Character Bounds:** Enforces length constraints (`MIN_LENGTH = 2`, `MAX_LENGTH = 1000`).
 
 Usage:
     from guardrails import GuardrailPipeline
