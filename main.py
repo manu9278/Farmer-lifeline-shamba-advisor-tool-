@@ -1,5 +1,9 @@
-from stage_1 import stage_1
-from database_manager import read_rag
-from stage_2 import stage_2
-from advisory import generate_advisory
-from encryption import encrypt_data
+"""Entry point for the Shamba Advisor application."""
+
+from pathlib import Path
+import runpy
+
+
+if __name__ == "__main__":
+	advisor_script = Path(__file__).with_name("Shamba advisor.py")
+	runpy.run_path(str(advisor_script), run_name="__main__")
